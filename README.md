@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Blair McCormick</h1>
-<h4 align="center">I am working towards my Masters in Computer Science from Durham University. I am interested in all things theoretical, particularly algorithmic complexity and cryptography. I am also a keen competitive programmer.</h4>
+<h4 align="center">I am working towards my Master's in Computer Science from Durham University. I am interested in all things theoretical, particularly algorithmic complexity and cryptography. I am also a keen competitive programmer.</h4>
 
 - 🔭 I’m currently working on **Efficient Algorithms for Suguru.**
 
